@@ -29,9 +29,11 @@ _|      _|    _|  _|  _|    _|        _|
 _|        _|_|_|  _|    _|    _|_|_|  _|
 ```
 
-# Script /generar-datos-aleatoriamente/name+age+faker.py
+## Scripts para generar-datos-aleatoriamente 
 
 Usa el módulo [Python Faker](https://faker.readthedocs.io/) : 
+
+_El script en su v2_ tiene dos partes : 
 
   Sección 1 - Formato Simple:
   - 10 personas con nombres españoles completos y edades entre 18-65 años
