@@ -1,0 +1,1 @@
+- ayudame con @generar-datos-de-alumnos-aleatoriamente/name-faker.py , creando un nuevo fichero @generar-datos-de-alumnos-aleatoriamente/name-faker-guardar-en-un-diccionario-por-persona.py
