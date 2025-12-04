@@ -21,6 +21,23 @@ for _ in range(10):
 # Ágata Diez Soler
 ```
 
+## Venv: técnica para generar un proyecto Python limpio, aislado y profesional
+
+**Mejores prácticas**: Antes de instalar cualquier módulo como Faker, es fundamental trabajar con **entornos virtuales** (`venv`). Esta técnica te permite mantener las dependencias de cada proyecto aisladas, evitando conflictos entre versiones y asegurando un entorno de desarrollo limpio y reproducible.
+
+Sabrás que tu entorno virtual está correctamente configurado y activado cuando veas el prefijo `(venv)` en tu línea de comandos:
+
+```bash
+(venv) $ pip install faker
+```
+
+📖 **[Guía completa: Entornos Virtuales en Python](entornos-virtuales-en-python.md)**
+
+Esta guía incluye:
+- Creación y activación de entornos virtuales en Linux, macOS y Windows
+- Instalación de paquetes dentro del entorno aislado
+- Verificación de la instalación correcta
+
 ```
 _|_|_|_|          _|
 _|        _|_|_|  _|  _|      _|_|    _|  _|_|
